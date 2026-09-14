@@ -15,4 +15,4 @@ labubu dubai schokolade (ból i plaga)
 
 7. Lokalne.
 
-8. TypeScripte.
+8. TypeScript.
